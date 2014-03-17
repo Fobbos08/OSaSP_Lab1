@@ -1,0 +1,8 @@
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\Lab1\obj\Debug\Lab1.pdb

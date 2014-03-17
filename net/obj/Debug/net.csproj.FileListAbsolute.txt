@@ -1,0 +1,8 @@
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\bin\Debug\net.exe.config
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\obj\Debug\net.csprojResolveAssemblyReference.cache
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\bin\Debug\net.exe
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\bin\Debug\net.pdb
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\bin\Debug\Model.dll
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\bin\Debug\Model.pdb
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\obj\Debug\net.exe
+C:\Users\Эмиль\Documents\Visual Studio 2012\Projects\OSandSP\Lab1\net\obj\Debug\net.pdb
